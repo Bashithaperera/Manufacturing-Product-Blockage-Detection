@@ -35,6 +35,7 @@ When a blockage occurs, the system visually highlights the stuck product on a li
 
 ### 1. Clone the Repository
 git clone https://github.com/Bashithaperera/Manufacturing-Product-Blockage-Detection.git
+
 cd Manufacturing-Product-Blockage-Detection
 
 ### 2. Install Dependencies
