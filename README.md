@@ -60,5 +60,10 @@ You can fine-tune the tracking and blockage logic by adjusting the parameters di
 * block_time_threshold = 2.0: Consecutive seconds the aspect ratio must be exceeded to flag a blockage.
 * track_activation_threshold = 0.15: Confidence threshold for ByteTrack.
 
+## Output (frame extracted from results_sample.mp4)
+
+<img width="303" height="435" alt="image" src="https://github.com/user-attachments/assets/50f54dad-7ef9-4011-995f-3979657daf78" />
+
+
 ## License
 MIT License
